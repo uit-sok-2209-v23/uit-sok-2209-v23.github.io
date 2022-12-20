@@ -29,7 +29,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum  
 
 Studenter får godkjent et eget pensum basert på temaet til bacheloroppgaven.           
-[Retningslinjer og krav til skriving av bacheloroppgave](Retningslinjer og krav til skriving av bacheloroppgave.pdf){:target="blank"}.
+[Retningslinjer og krav til skriving av bacheloroppgave](/Retningslinjer og krav til skriving av bacheloroppgave.pdf){:target="blank"}.
 
 
 ## Kunngjøringer  
