@@ -5,9 +5,9 @@
      
 |Dato <img width=50/>| Sesjon <img width=50/>   | Tema <img width=300/>           | Ressurser <img width=150/>  |
 |--------|----------------|---------------------------|--------------------------------------|
-|10.01 | 1 | Hva er en bacheloroppgave? | [Retningslinjer](/Retningslinjer og krav til skriving av bacheloroppgave.pdf){:target="blank"}     |
-|17.01 | 2 | Forskningsverksted |    |
-|31.01 | 3 | Presentasjon av problemstillingen |   |
+|10.01 | 1 | Hva er en bacheloroppgave? | [Retningslinjer](/Retningslinjer og krav til skriving av bacheloroppgave.pdf){:target="blank"}  <br> [Forelesningsnotater](/forelesninger7SOK-2209 F1 v23.pdf){:target="blank"}   |
+|17.01 | 2 | Forskningsverksted | Ressurser kommer    |
+|31.01 | 3 | Presentasjon av problemstillingen | Studentpresentasjon   |
 |**03.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/29608/assignments){:target="blank"} innen kl 16.00 |
 |14.02 | 4 | Skriveverksted I |    |
 |21.02 | 5 | Skriveverksted II |   |
