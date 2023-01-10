@@ -1,5 +1,6 @@
 {% include navbar_open.html %}{% include top-box.html %}
 
+
 ## Sok-2209
 
 ### "Økonomisk analyse av lykke"
