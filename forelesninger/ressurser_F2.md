@@ -9,7 +9,7 @@
 - [The Economics of Happiness](/artikler/happiness graham.pdf), Carol Graham, World Economics 2005
 - [De tilfredse og de lykkelige](/artikler/De tilfredse og de lykkelige.pdf), Andreas R Graven (2010) fra forskning.no
 - [The origins of happiness](https://issuhub.com/view/index/13813), Clark, Flèche, Layard, Powdthavee, Ward (2018)
-- [What actually makes us happy?](/artikler/What actually makes us happy__Royal Society.pdf), Layard (Royal Society blog - "4 minute read")
+- [What actually makes us happy?](/artikler/What actually makes us happy.pdf), Layard (Royal Society blog - "4 minute read")
 
 
 #### Datakilder
