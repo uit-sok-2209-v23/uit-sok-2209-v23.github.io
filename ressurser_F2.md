@@ -19,6 +19,8 @@ Tilfredshet
 
 - [Eurostat Quality of life](https://ec.europa.eu/eurostat/web/quality-of-life/overview)
 - [European Social Survey](https://www.europeansocialsurvey.org/data/)
+- [Our World in Data](https://ourworldindata.org/happiness-and-life-satisfaction) - en del kilder på slutten her også.
+- [Livskvalitet SSB](https://www.ssb.no/sosiale-forhold-og-kriminalitet/levekar/statistikk/livskvalitet)
 
 Data på BNP, Gini koeffisienter osv        
 
