@@ -9,7 +9,7 @@
 |17.01 | 2 | Forskningsverksted | [The Economics of Happiness](/ressurser_F2.md){:target="blank"}  <br> [Forelesningsnotater](/forelesninger/SOK-2209 F2 v23.pdf){:target="blank"} <br> [Hvordan sitere kode (MIT)](https://integrity.mit.edu/handbook/writing-code){:target="blank"}     |
 |31.01 | 3 | Presentasjon av problemstillingen | Studentpresentasjon   |
 |**03.02**| Frist| Innlevering av presentasjonen| [Canvas](https://uit.instructure.com/courses/29608/assignments){:target="blank"} innen kl 16.00 |
-|14.02 | 4 | Skriveverksted I | [Notater](/forelesninger/akriveverk_lysbilder.pdf){:target="blank"}   |
+|14.02 | 4 | Skriveverksted I | [Notater](/forelesninger/skriveverk_lysbilder.pdf){:target="blank"}   |
 |21.02 | 5 | Skriveverksted II |   |
 |**24.02**| Frist| Skriftlig prosjektbeskrivelse| [Canvas](https://uit.instructure.com/courses/29608/assignments){:target="blank"} innen kl 16.00  |
 |**14.04**| Frist| Midtveisinnlevering og statusrapport | [Canvas](https://uit.instructure.com/courses/29608/assignments){:target="blank"} innen kl 16.00  |
